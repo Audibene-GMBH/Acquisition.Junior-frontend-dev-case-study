@@ -1,11 +1,8 @@
 
 ### Build the following:
 
-Desktop layout:
-https://res.cloudinary.com/dhqvlsb3l/image/upload/v1612949147/lp_fe_coding_challenge/mockup_desktop.png
-
-Mobile layout:
-https://res.cloudinary.com/dhqvlsb3l/image/upload/v1612949146/lp_fe_coding_challenge/mockup_mobile.png
+Layout:
+https://www.figma.com/file/bMu3DsKxlRQi6Jrs41VnKD/Case-Study---Junior-Frontend-Developer?node-id=0%3A1
 
 Data: https://api.jsonbin.io/b/6023a4c93b303d3d964e8ddf
 
