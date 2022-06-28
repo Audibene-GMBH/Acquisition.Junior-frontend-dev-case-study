@@ -12,14 +12,13 @@ Using the simple json that contains a list of hearing aid devices, and the mobil
 ### Behaviour :
 - Each button is clickable and will have an active state when selected;
 - On click, the image & text in the header should change - according to the data from the provided json;
-- Use Left & Right keyboard arrows to navigate between elements;
 - The current selection should be pushed to a URL parameter: ‘aud_device’. As value for this parameter, please use the key of each device (ex:aud_device=ricS);
 - If a device is already passed as a URL parameter - when the page loads, it should be preselected;
 - You can choose the mobile / desktop breakpoints.
 
 ### Acceptance criteria:
 - Vanilla Js (no frameworks);
-- Cross-browser optimised (page should work correctly in Chrome, IE & Safari).
+- Cross-browser optimised (page should work correctly in all browsers).
 
 ### Bonus points (optional):
 - Use SCSS;
