@@ -10,10 +10,10 @@ Using the simple json that contains a list of hearing aid devices, and the mobil
 
 
 ### Behaviour :
-- Each button is clickable and will have an active state when selected;
-- On click, the image & text in the header should change - according to the data from the provided json;
-- The current selection should be pushed to a URL parameter: ‘aud_device’. As value for this parameter, please use the key of each device (ex:aud_device=ricS);
-- If a device is already passed as a URL parameter - when the page loads, it should be preselected;
+- Each button should be clickable and will have an active state (stay active) when selected;
+- On click, the image & text in the header should change - according to the data fetched from the provided json file;
+- The active selection should be appened to a URL parameter: ‘aud_device’. The value of this active paramter should be the key of each device (ex:aud_device=ricS);
+- Only one 'aud_device' parameter should be in the url.  So when more than one button has been clicked only the last one clicked should be in the parameter.
 - You can choose the mobile / desktop breakpoints.
 
 ### Acceptance criteria:
@@ -27,7 +27,7 @@ Using the simple json that contains a list of hearing aid devices, and the mobil
 ### Font:
 https://fonts.google.com/specimen/Titillium+Web?preview.text_type=custom
 
-### Images:
+### Teaser Images:
 Mobile: https://res.cloudinary.com/dhqvlsb3l/image/upload/v1612947435/lp_fe_coding_challenge/mobile.jpg
 
 Desktop: https://res.cloudinary.com/dhqvlsb3l/image/upload/v1612947435/lp_fe_coding_challenge/desktop.jpg
