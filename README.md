@@ -12,8 +12,8 @@ Using the simple json that contains a list of hearing aid devices, and the mobil
 ### Behaviour :
 - Each button should be clickable and will have an active state (stay active) when selected;
 - On click, the image & text in the header should change - according to the data fetched from the provided json file;
-- The active selection should be appened to a URL parameter: ‘aud_device’. The value of this active paramter should be the key of each device (ex:aud_device=ricS);
-- Only one 'aud_device' parameter should be in the url.  So when more than one button has been clicked only the last one clicked should be in the parameter.
+- The active selection should be appened to a URL paramter: ‘aud_device’. The value of this active paramter should be the key of each device (ex:aud_device=ricS);
+- Only one 'aud_device' paramter should be in the url.  So when more than one button has been clicked only the last one clicked should be in the paramter.
 - You can choose the mobile / desktop breakpoints.
 
 ### Acceptance criteria:
