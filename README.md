@@ -4,7 +4,8 @@
 Layout:
 https://www.figma.com/file/bMu3DsKxlRQi6Jrs41VnKD/Case-Study---Junior-Frontend-Developer?node-id=0%3A1
 
-Data: attached json file
+Data:
+https://api.jsonbin.io/b/62bf1ad2402a5b380245b645/1
 
 Using the simple json that contains a list of hearing aid devices, and the mobile/desktop mockups provided above.
 
